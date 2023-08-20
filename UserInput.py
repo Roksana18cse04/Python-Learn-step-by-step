@@ -1,2 +1,9 @@
 name = input("Enter Your name = ")   # input() library function use
-print(name)
+age = input("Enter Your Age = ")
+CGPA = input("Enter Your CGPA = ")
+
+print("--------------------------------------")
+print("Student Information :")
+print("Name  : "+name)
+print("Age   : "+age)
+print("CGPA  : "+CGPA)
