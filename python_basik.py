@@ -33,5 +33,5 @@ StudentId ={
 }
 print(StudentId)
 print(StudentId[204])
-print(StudentId.get(107))
+print(StudentId.get(107)) # Error catch defalt 
 print(StudentId.get(107,"Not A Valid key")) # Error catch defalt
